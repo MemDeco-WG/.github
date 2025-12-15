@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img.png" alt="logo" width="96" />
+<img src="profile/img.png" alt="logo" width="96" />
 
 
 回忆坍缩工作组（M.M.D. W.G.）
