@@ -8,7 +8,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/MemDeco-WG)
 ![GitHub Org's stars](https://img.shields.io/github/stars/MemDeco-WG)
 
-[没有内容发布页](https://404.not.found)  
-若需要与开发团队取得联系，请 [不要点击这里](https://github.com)
+组织关键词：
+linux,android,magisk,apatch,kernelsu,kernel,ai,agent,rust,python,...
+
+联系邮箱📮：lightjunction.me@gmail.com
+
+名称由来：
+模仿回忆溢出工作组命名
 
 </div>
